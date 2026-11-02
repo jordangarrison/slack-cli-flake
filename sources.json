@@ -1,0 +1,21 @@
+{
+  "version": "4.12.0",
+  "platforms": {
+    "x86_64-linux": {
+      "asset": "linux_amd64",
+      "hash": "sha256-i5Ow/zowh5te8J/gH7O8RXr7NouyaCe1JvEB7MzpbHY="
+    },
+    "aarch64-linux": {
+      "asset": "linux_arm64",
+      "hash": "sha256-2YrYughIlYpHvvtzdhpR69l6NjtDF1jhd6gox3dL230="
+    },
+    "x86_64-darwin": {
+      "asset": "macOS_amd64",
+      "hash": "sha256-g4qoHRD4Ll6SEoANCEkkrGblgHrsqsFq50fJDZhTUqI="
+    },
+    "aarch64-darwin": {
+      "asset": "macOS_arm64",
+      "hash": "sha256-I6UAGFTSuyg97YrZQc/xPUslc7qSIjMIdgm3DOU+S20="
+    }
+  }
+}
